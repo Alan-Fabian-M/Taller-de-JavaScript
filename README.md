@@ -1,2 +1,2 @@
-*Clases Grabadas*
-// un rato
+*Clases Grabadas* \n
+Clase 2:
